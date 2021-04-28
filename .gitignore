@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+sudoku/
 
 # Spyder project settings
 .spyderproject
